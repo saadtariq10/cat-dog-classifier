@@ -11,8 +11,8 @@ __pycache__/
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore model files (if any)
-*.h5
+# # Ignore model files (if any)
+# *.h5
 
 # Ignore log files
 *.log
