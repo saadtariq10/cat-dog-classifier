@@ -2,6 +2,8 @@
 
 A machine learning project that uses Convolutional Neural Networks (CNN) to classify images as either cats or dogs. This project is implemented with TensorFlow and Keras for the model, and Streamlit for the web application interface.
 
+![Cat-Dog Classifier GIF](https://github.com/saadtariq10/cat-dog-classifier/blob/main/cat-dog.gif?raw=true)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
